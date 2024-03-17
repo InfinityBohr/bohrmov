@@ -1,8 +1,8 @@
 # Change input and output details
 
-output_path="big-buck-bunny" # Output Path (Same will be pushed in main also)
-input_url="https://vidohd.com/Shaitaan%20(2024)%20DVDScr%20-%20Bolly2Tolly.zip.mp4" # Input direct file url
-input_extension="mp4" # Extension of file url
+output_path="Shaitaan_2024" # Output Path (Same will be pushed in main also)
+input_url="https://yhills.chammii.workers.dev/0:/Eagle.2024.1080p.AMZN.WEB-DL.DDP5.1.H.265-Telly.mkv" # Input direct file url
+input_extension="mkv" # Extension of file url
 
 
 
