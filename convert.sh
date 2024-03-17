@@ -1,7 +1,7 @@
 # Change input and output details
 
 output_path="big-buck-bunny" # Output Path (Same will be pushed in main also)
-input_url="https://yhills.chammii.workers.dev/download.aspx?file=%2FNF5FuZDrzzqRtfUMzfpsh8%2FbK0%2F47ODJ%2FnWqKPeY5smK7yIUkil83afzFBqHZeK&expiry=jsNa7JT1%2BTC08rF6P5zecQ%3D%3D&mac=8e55b3d78a285bd5f48c8a39f73ac4798065ae545cf876d8615fe42aed73f7aa" # Input direct file url
+input_url="https://yhills.chammii.workers.dev/0:/Animal%20(2023)%20720p%2010bit%20NF%20WEBRip%20x265%20HEVC%20Hindi%20AAC%205.1%20E.mkv" # Input direct file url
 input_extension="mkv" # Extension of file url
 
 
